@@ -1,0 +1,238 @@
+[
+  {
+    "genre":"Dance\/Electronic",
+    "frequency":282
+  },
+  {
+    "genre":"Folk\/Acoustic, pop",
+    "frequency":4
+  },
+  {
+    "genre":"Folk\/Acoustic, rock",
+    "frequency":10
+  },
+  {
+    "genre":"Folk\/Acoustic, rock, pop",
+    "frequency":2
+  },
+  {
+    "genre":"R&B",
+    "frequency":74
+  },
+  {
+    "genre":"World\/Traditional, Folk\/Acoustic",
+    "frequency":10
+  },
+  {
+    "genre":"World\/Traditional, hip hop",
+    "frequency":4
+  },
+  {
+    "genre":"World\/Traditional, pop",
+    "frequency":10
+  },
+  {
+    "genre":"World\/Traditional, pop, Folk\/Acoustic",
+    "frequency":20
+  },
+  {
+    "genre":"World\/Traditional, rock",
+    "frequency":12
+  },
+  {
+    "genre":"World\/Traditional, rock, pop",
+    "frequency":12
+  },
+  {
+    "genre":"country",
+    "frequency":84
+  },
+  {
+    "genre":"country, latin",
+    "frequency":10
+  },
+  {
+    "genre":"easy listening",
+    "frequency":10
+  },
+  {
+    "genre":"hip hop",
+    "frequency":808
+  },
+  {
+    "genre":"hip hop, Dance\/Electronic",
+    "frequency":128
+  },
+  {
+    "genre":"hip hop, R&B",
+    "frequency":14
+  },
+  {
+    "genre":"hip hop, country",
+    "frequency":2
+  },
+  {
+    "genre":"hip hop, latin, Dance\/Electronic",
+    "frequency":2
+  },
+  {
+    "genre":"hip hop, pop",
+    "frequency":1882
+  },
+  {
+    "genre":"hip hop, pop, Dance\/Electronic",
+    "frequency":516
+  },
+  {
+    "genre":"hip hop, pop, R&B",
+    "frequency":1672
+  },
+  {
+    "genre":"hip hop, pop, R&B, Dance\/Electronic",
+    "frequency":14
+  },
+  {
+    "genre":"hip hop, pop, R&B, latin",
+    "frequency":14
+  },
+  {
+    "genre":"hip hop, pop, country",
+    "frequency":10
+  },
+  {
+    "genre":"hip hop, pop, latin",
+    "frequency":76
+  },
+  {
+    "genre":"hip hop, pop, rock",
+    "frequency":66
+  },
+  {
+    "genre":"hip hop, rock, pop",
+    "frequency":12
+  },
+  {
+    "genre":"latin",
+    "frequency":102
+  },
+  {
+    "genre":"metal",
+    "frequency":58
+  },
+  {
+    "genre":"pop",
+    "frequency":2792
+  },
+  {
+    "genre":"pop, Dance\/Electronic",
+    "frequency":1554
+  },
+  {
+    "genre":"pop, Folk\/Acoustic",
+    "frequency":48
+  },
+  {
+    "genre":"pop, R&B",
+    "frequency":1204
+  },
+  {
+    "genre":"pop, R&B, Dance\/Electronic",
+    "frequency":28
+  },
+  {
+    "genre":"pop, R&B, easy listening",
+    "frequency":10
+  },
+  {
+    "genre":"pop, country",
+    "frequency":72
+  },
+  {
+    "genre":"pop, easy listening, Dance\/Electronic",
+    "frequency":10
+  },
+  {
+    "genre":"pop, easy listening, jazz",
+    "frequency":12
+  },
+  {
+    "genre":"pop, latin",
+    "frequency":200
+  },
+  {
+    "genre":"pop, rock",
+    "frequency":148
+  },
+  {
+    "genre":"pop, rock, Dance\/Electronic",
+    "frequency":74
+  },
+  {
+    "genre":"pop, rock, Folk\/Acoustic",
+    "frequency":4
+  },
+  {
+    "genre":"pop, rock, metal",
+    "frequency":108
+  },
+  {
+    "genre":"rock",
+    "frequency":452
+  },
+  {
+    "genre":"rock, Dance\/Electronic",
+    "frequency":10
+  },
+  {
+    "genre":"rock, Folk\/Acoustic, easy listening",
+    "frequency":2
+  },
+  {
+    "genre":"rock, Folk\/Acoustic, pop",
+    "frequency":10
+  },
+  {
+    "genre":"rock, R&B, Folk\/Acoustic, pop",
+    "frequency":10
+  },
+  {
+    "genre":"rock, blues",
+    "frequency":12
+  },
+  {
+    "genre":"rock, blues, latin",
+    "frequency":20
+  },
+  {
+    "genre":"rock, classical",
+    "frequency":2
+  },
+  {
+    "genre":"rock, easy listening",
+    "frequency":2
+  },
+  {
+    "genre":"rock, metal",
+    "frequency":244
+  },
+  {
+    "genre":"rock, pop",
+    "frequency":350
+  },
+  {
+    "genre":"rock, pop, Dance\/Electronic",
+    "frequency":64
+  },
+  {
+    "genre":"rock, pop, metal",
+    "frequency":16
+  },
+  {
+    "genre":"rock, pop, metal, Dance\/Electronic",
+    "frequency":10
+  },
+  {
+    "genre":"set()",
+    "frequency":124
+  }
+]

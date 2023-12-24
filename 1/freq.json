@@ -1,0 +1,42 @@
+[
+  {
+    "genre": "биография",
+    "frequency": 5
+  },
+  {
+    "genre": "детектив",
+    "frequency": 5
+  },
+  {
+    "genre": "детская литература",
+    "frequency": 7
+  },
+  {
+    "genre": "исторический роман",
+    "frequency": 7
+  },
+  {
+    "genre": "любовный роман",
+    "frequency": 6
+  },
+  {
+    "genre": "научная фантастика",
+    "frequency": 7
+  },
+  {
+    "genre": "приключения",
+    "frequency": 4
+  },
+  {
+    "genre": "роман",
+    "frequency": 7
+  },
+  {
+    "genre": "триллер",
+    "frequency": 8
+  },
+  {
+    "genre": "фэнтези",
+    "frequency": 5
+  }
+]
